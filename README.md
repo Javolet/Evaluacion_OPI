@@ -8,6 +8,10 @@ Esta repo contiene la solución a la evaluación dada por OPI Analytics, en tres
 - Sección B: Quién es quién en los precios
 - Sección C: Caso BOPS en Home & Kitchen
 
+Los siguiente archivos fueron utilizados en la creación de este repo:
+
+`OPI.yml`: Archivo con las bibliotecas requeridas para crear el entorno  
+
 Esta evaluación fue desarrollado con las siguientes tecnologías:
 
 `MAC OS - Big Sur 11.3`: En base a una plataforma de 8gb de RAM con un procesador Intel Core i5  
