@@ -1,0 +1,17 @@
+name: OPI
+dependencies:
+- python=3.8.3
+- matplotlib
+- numpy
+- pandas
+- conda-forge::dlib
+- conda-forge::scikit-image
+- conda-forge::keras
+- conda-forge::findspark
+- pip:
+      - scikit-learn
+      - notebook
+      - streamlit
+      - pyspark
+      - ipyleaflet
+      - panel-highcharts
