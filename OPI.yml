@@ -16,3 +16,5 @@ dependencies:
       - ipyleaflet
       - panel-highcharts
       - seaborn
+      - geopandas
+      - pygeos
