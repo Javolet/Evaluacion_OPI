@@ -10,9 +10,13 @@ Esta repo contiene la solución a la evaluación dada por OPI Analytics, en tres
 
 Los siguiente archivos fueron utilizados en la creación de este repo:
 
-`OPI.yml`: Archivo con las bibliotecas requeridas para crear el entorno  
+`OPI.yml`: Documento con las bibliotecas requeridas para crear el entorno
+`README.md`: Documento donde se da una introducción al proyecto y sus notebooks
+`Seccion_A/Seccion_A_Notebook.ipynb`: Libreta Jupyter con el caso de Datos Abiertos de la CDMX
+`Seccion_B/Seccion_B_Notebook.ipynb`: Libreta Jupyter con el caso de Quién es quién en los precios
+`Seccion_C/Seccion_C_Notebook.ipynb`: Libreta Jupyter con el caso BOPS en Home & Kitchen
 
-Esta evaluación fue desarrollado con las siguientes tecnologías:
+Esta evaluación fue desarrollada con las siguientes tecnologías:
 
 `MAC OS - Big Sur 11.3`: En base a una plataforma de 8gb de RAM con un procesador Intel Core i5  
 `Apache Spark 3.1.1`: Descargado desde Brew  
